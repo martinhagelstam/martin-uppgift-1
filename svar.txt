@@ -1,0 +1,6 @@
+1. git stash och pop
+2. git add -p filnamn.txt
+3. git rebase -i HEAD~3
+4. Git rebase -i HEAD~1
+5. git reset HEAD~1
+6. every move you do it stores all the codes. means it record every updated bransh
